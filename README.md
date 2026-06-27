@@ -1,6 +1,6 @@
 # Hi, I'm Disha Shree 👋
 
-I’m a second-year B.Tech CSE student at D Y Patil International University, passionate about coding, designing, and creative expression. Skilled in Java, Python, C, and HTML, with a certification in Linux Basics, I enjoy exploring new tech and design trends.
+I’m a second-year B.Tech CSE student at D Y Patil International University, passionate about coding, designing, and creative expression. Skilled in Java, Python, C, and HTML, I enjoy exploring new tech and design trends.
 
 Beyond academics, I’m an enthusiast in art, music, and sports—a state-level badminton player with a love for bossy aesthetics, old money, and vintage vibes. My inspiration comes from the belief:  
 *“Every small step I take builds the path to who I’m meant to become.”*
