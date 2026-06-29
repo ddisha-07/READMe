@@ -1,4 +1,4 @@
-# Hi, I'm Disha Shree 👋
+# Hi, I'm D Disha Shree 👋
 
 I’m a second-year B.Tech CSE student at D Y Patil International University, passionate about coding, designing, and creative expression. Skilled in Java, Python, C, and HTML, I enjoy exploring new tech and design trends.
 
